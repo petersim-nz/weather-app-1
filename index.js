@@ -18,7 +18,3 @@ request(url, function (err, response, body) {
   }
 })
 
-// usage:
-// node index gives current temperature in Whangarei
-// node index -c wellington gives temperature in another NZ town/city
-// node index -c 'palmerston north'
