@@ -1,0 +1,24 @@
+{
+  "name": "weather-app-1",
+  "version": "1.0.0",
+  "description": "Weather app with Node and OpenWeatherMap",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petersim-nz/weather-app-1.git"
+  },
+  "author": "Peter Sim <ps.in.nz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petersim-nz/weather-app-1/issues"
+  },
+  "homepage": "https://github.com/petersim-nz/weather-app-1#readme",
+  "dependencies": {
+    "request": "^2.85.0",
+    "yargs": "^11.0.0"
+  }
+}
